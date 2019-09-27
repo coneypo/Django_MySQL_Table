@@ -1,0 +1,79 @@
+#Top
+{
+        display:block;
+        width:100%;
+        height:80px;
+        left:10px;
+        padding:10px;
+        font-size:45px;
+        color:white;
+}
+#Center
+{
+        display:block;
+        width:100%;
+        padding:10px;
+        position:relative;
+}
+#Center_Searcher
+{
+        display:inline-block;
+        vertical-align:top;
+        width:40%;
+        padding-left:1%;
+        padding-top:1%;
+        padding-bottom:1%;
+        background-color: white;
+        position:relative;
+        height:200px;
+}
+#Center_Filter
+{
+        display:inline-block;
+        vertical-align:top;
+        margin-left:3%;
+        width:40%;
+        padding:1%;
+        background-color: white;
+        position:relative;
+        height:200px;
+}
+#Table
+{
+        display:block;
+        width:100%;
+        padding-top:10px;
+        padding-left:10px;
+        padding-right:10px;
+        margin-top:20px;
+        overflow:hidden;
+        position:relative;
+        background-color: white;
+}
+
+#acrn_title
+{
+ text-decoration:none;
+ color: white;
+}
+
+
+.info-table {
+    overflow:auto;
+    border-spacing: 0;
+    border-collapse: separate;
+    width: 100%;
+    color: #314351;
+    font-size: 0.857em;
+    line-height: 1em;
+    margin-bottom: 17px;
+    font-family: "museo-sans",sans-serif;
+}
+
+
+.center_table td {
+    padding: 8px 10px 8px 10px;
+    text-align: left;
+    vertical-align: middle;
+    margin: 0;
+}
