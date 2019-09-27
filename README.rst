@@ -12,13 +12,13 @@ Overview
 
 Check the data in MySQL database by MySQL Workbench:
 
-.. image:: for_readme/ss_dashboard.png
+.. image:: for_readme/ss_mysql_workbench.png
    :align: center
 
 
 And the dashboard website will be like:
 
-.. image:: for_readme/ss_mysql_workbench.png
+.. image:: for_readme/ss_dashboard.png
    :align: center
 
 How to run
